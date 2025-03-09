@@ -1,0 +1,5 @@
+# Abaikan perpanjangan file berikut di Visual Studio
+.sln
+tpmodul4_103022300082/bin/
+tpmodul4_103022300082/obj/
+tpmodul4_103022300082.csproj
